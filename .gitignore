@@ -1,0 +1,7 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Mac/OS hidden files (just in case)
+.DS_Store
